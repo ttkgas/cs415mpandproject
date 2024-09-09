@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_main.uasset",
+				"/Users/tejasa4/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Controller.uasset"
+			]
+		}
+	]
+}
